@@ -1,8 +1,9 @@
 <h2> Hi, I am Icía Colomar! 👋🏻 </h2>
 
-<img align='right' src="https://img.freepik.com/vector-gratis/concepto-trabajo-casa-diseno-plano_1308-102125.jpg?w=1800&t=st=1716052677~exp=1716053277~hmac=1d55a2722fa3cb7e8d84c9571c2331df40c61f0bfb10133484c90ad228bca35e" width="350">
+<img align='right' src="https://github.com/IciaColomarRey/IciaColomarRey/assets/33415223/5d9d6a3b-5d5f-4161-9f1c-5b762b7acff1" width="350">
 
 <p><em>Frontend Developer at  <a href="https://www.sngular.com/">Sngular</a></em></p>
+
 
 ### A little more about me...
 
